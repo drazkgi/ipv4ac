@@ -6,7 +6,7 @@ Internet Protocol Version 4 Address Check is a simple module provides a function
 
 ## Installing
 
-Install the module by [pip] (check [how to use pip]):
+Install the module by [pip][1] (check [how to use pip][2]):
 
 ```
 $ python3 -m pip install ipv4ac
@@ -26,5 +26,5 @@ ip_address = '192.168.100.1'
 check_result = ipv4_address_check(ip_address)
 ```
 
-[pip]: (https://pypi.org/) 
-[how to use pip]: (https://pip.pypa.io/en/stable/getting-started/)
+[1]: https://pypi.org/ 
+[2]: https://pip.pypa.io/en/stable/getting-started/
