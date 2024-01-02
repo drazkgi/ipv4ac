@@ -8,7 +8,7 @@ dynamic = [
   "version"
 ]
 authors = [
-  { name = "Bartlomiej Drazkiewicz", email = "bartlomiej@drazkiewicz.me" },
+  { name = "Bartłomiej Drążkiewicz", email = "bartlomiej@drazkiewicz.me" },
 ]
 description = "A simple module provides a function to check if an IPv4 address has correct format."
 readme = { "file" = "README.md", "content-type" = "text/markdown" }
